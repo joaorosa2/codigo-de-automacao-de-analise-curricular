@@ -32,7 +32,7 @@ Ao buscar por alguém com resultados '4,4,8,8', por exemplo, vamos receber que o
 ### :gear: <strong>Como executar:</strong>
 1º Clone o repositório abaixo:
 ```shell
-git clone https://github.com/joaorosa2/TODO3-DEU-MATCH.git
+git clone https://github.com/joaorosa2/codigo-de-automacao-de-analise-curricular.git
 ```
 2º Abra o arquivo "main.py" com uma IDE de sua preferência; <br/>
 3º Execute o arquivo "main.py", para isso procure pelo comando 'run python file' ou similar; <br/>
